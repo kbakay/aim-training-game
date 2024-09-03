@@ -49,17 +49,4 @@ After the game ends, you will see a summary screen with your final stats:
 - **Time**: Total time played.
 - **Speed**: Average speed of hitting targets.
 - **Hits**: Total targets hit.
-- **Accuracy**: Your accuracy percentage based on hits and total clicks.
-
-## Requirements
-
-- Python 3.x
-- Pygame
-
-## Contributing
-
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- **Accuracy**: Your accuracy percentage based on hits and total clicks
